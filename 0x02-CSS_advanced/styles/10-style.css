@@ -48,10 +48,11 @@ h1, h2, h3, h4, h5, h6 {
 .section-tagline {
     color: var(--color-primary);
 }
+.section-header {
+    text-align: var(--section-header-align);
+}
+
 .card-category
 .section-tagline {
     color: var(--color-primary);
-}
-.section-header {
-    text-align: var(--section-header-align);
 }
